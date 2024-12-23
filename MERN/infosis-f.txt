@@ -1,0 +1,14 @@
+Html&CSs link:https://drive.google.com/drive/folders/1m9NtswXeAO32Cu3IKYEYwMXkDxRmWA_N
+Link 2______________________________________
+https://drive.google.com/drive/folders/1m9NtswXeAO32Cu3IKYEYwMXkDxRmWA_N
+3___________________________________________
+https://learn.codemithra.com/login/index.php
+4___________________________________________
+https://drive.google.com/drive/folders/1m9NtswXeAO32Cu3IKYEYwMXkDxRmWA_N
+____________________________________________
+5
+____________________________________________
+https://learn.codemithra.com/auth/oauth2/confirm-linkedlogin.php?token=leDXGJgM4tQBWHWmG8lBYr3OVDp5j2q1&userid=127643&username=mahammadinthiyaz350%40gmail.com&issuerid=1 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://github.com/richieArnrich/infosys-mern/tree/main/batch1
+----------------------------------------------------------------------------------------------------------------------
